@@ -3,5 +3,6 @@ public class demo {
         System.out.println("中秋快乐~");
         System.out.println("中秋快乐~");
         System.out.println("中秋快乐~");
+        System.out.println("中秋快乐~");
     }
 }
