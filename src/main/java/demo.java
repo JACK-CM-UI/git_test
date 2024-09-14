@@ -5,6 +5,6 @@ public class demo {
         System.out.println("中秋快乐~");
         System.out.println("中秋快乐~");
         System.out.println("master test");
-        System.out.println("push test");
+        System.out.println("push ~test");
     }
 }
